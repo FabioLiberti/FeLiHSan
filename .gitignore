@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.idea/
+.vscode/
+*.log
+*.tmp
+temp/
+tmp/
+BK&OLDS/
+Book/
+Ipotesi_Paper/

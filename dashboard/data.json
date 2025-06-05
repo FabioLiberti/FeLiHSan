@@ -1,0 +1,44 @@
+{
+    "projectInfo": {
+      "status": "Pre-Implementation",
+      "today": "2025-06-05",
+      "timelineStart": "2025-01-01",
+      "timelineEnd": "2027-01-01"
+    },
+    "kpis": [
+      { "id": "overall-progress", "title": "Overall Progress", "value": null, "unit": "%", "description": "Towards Q2 2026 Milestone", "icon": "fas fa-tasks" },
+      { "id": "current-focus", "title": "Current Focus", "value": "ICL Engine Prototype", "progress": 83, "description": "Foundation Phase", "icon": "fas fa-crosshairs", "highlight": true },
+      { "id": "accuracy-target", "title": "Accuracy Target", "value": "> 85", "unit": "%", "description": "Model Performance (AUC)", "icon": "fas fa-bullseye" },
+      { "id": "privacy-guarantee", "title": "Privacy Guarantee", "value": "ε ≤ 1.0", "unit": "", "description": "Differential Privacy Budget", "icon": "fas fa-shield-alt" },
+      { "id": "communication-reduction", "title": "Communication", "value": "> 99", "unit": "%", "description": "Reduction via ICL", "icon": "fas fa-exchange-alt" },
+      { "id": "discoveries-target", "title": "Autonomous Discoveries", "value": "> 5", "unit": "/ mo", "description": "AlphaEvolve Target", "icon": "fas fa-lightbulb" }
+    ],
+    "roadmapTasks": [
+      { "section": "Foundation", "name": "Core Federated Architecture", "start": "2025-01-01", "end": "2025-04-01" },
+      { "section": "Foundation", "name": "FHIR-AI Integration", "start": "2025-02-01", "end": "2025-04-01" },
+      { "section": "Foundation", "name": "Blockchain Setup", "start": "2025-03-01", "end": "2025-05-01" },
+      { "section": "Foundation", "name": "ICL Engine Prototype", "start": "2025-04-01", "end": "2025-06-01" },
+      { "section": "Innovation", "name": "Absolute Zero Module", "start": "2025-07-01", "end": "2025-10-01" },
+      { "section": "Innovation", "name": "AlphaEvolve Implementation", "start": "2025-08-01", "end": "2025-11-01" },
+      { "section": "Innovation", "name": "Synthetic Testing", "start": "2025-09-01", "end": "2025-11-01" },
+      { "section": "Innovation", "name": "Privacy Validation", "start": "2025-10-01", "end": "2025-12-01" },
+      { "section": "Pilot", "name": "Hospital Partnerships", "start": "2026-01-01", "end": "2026-03-01" },
+      { "section": "Pilot", "name": "Real Data Testing", "start": "2026-02-01", "end": "2026-05-01" },
+      { "section": "Pilot", "name": "Performance Optimization", "start": "2026-04-01", "end": "2026-06-01" },
+      { "section": "Pilot", "name": "Regulatory Compliance", "start": "2026-05-01", "end": "2026-06-01" },
+      { "section": "Scale", "name": "50+ Institution Expansion", "start": "2026-07-01", "end": "2026-10-01" },
+      { "section": "Scale", "name": "Scientific Publications", "start": "2026-08-01", "end": "2026-10-01" },
+      { "section": "Scale", "name": "Open Source Release", "start": "2026-09-01", "end": "2026-10-01" },
+      { "section": "Scale", "name": "Commercialization", "start": "2026-10-01", "end": "2027-01-01" }
+    ],
+    "milestones": [
+        { "quarter": "Q2 2025", "description": "Demo with 3 simulated hospitals", "status": "Completed" },
+        { "quarter": "Q4 2025", "description": "Privacy validation with EU regulators", "status": "Pending" },
+        { "quarter": "Q2 2026", "description": "First validated autonomous discovery", "status": "Pending" },
+        { "quarter": "Q4 2026", "description": "Commercial deployment in 10 countries", "status": "Pending" }
+    ],
+    "paradigms": [
+        { "title": "Absolute Zero", "description": "Autonomous reasoning from first principles, generating medical hypotheses without human training data." },
+        { "title": "AlphaEvolve", "description": "Evolutionary discovery of novel diagnostic algorithms and biomarkers through simulated genetic evolution." }
+    ]
+  }
