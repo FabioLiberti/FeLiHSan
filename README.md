@@ -1,11 +1,13 @@
-# 🏥 FedMed-AI: Framework Integrato per Federated Learning Privacy-Preserving con LLM, Blockchain e HL7/FHIR in Ambienti Sanitari Eterogenei
+# 🏥 FeLiHSan{AI}: Framework Integrato per Federated Learning Privacy-Preserving con LLM, Blockchain e HL7/FHIR in Ambienti Sanitari Eterogenei
 
 <div align="center">
+
+![FeLiHSan-AI Logo](img/logo_FeLiHSan-AI.png)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Date](https://img.shields.io/badge/date-2025--06--05-green.svg)
 ![Status](https://img.shields.io/badge/status-Pre--Implementation-orange.svg)
-![License](https://img.shields.io/badge/license-FedMed--AI-purple.svg)
+![License](https://img.shields.io/badge/license-FeLiHSan-AI-purple.svg)
 
 **Un framework rivoluzionario per l'AI medicale distribuita e privacy-preserving**
 
@@ -17,7 +19,7 @@
 
 ## 📑 Indice di Navigazione
 
-- [🏥 FedMed-AI: Framework Integrato per Federated Learning Privacy-Preserving con LLM, Blockchain e HL7/FHIR in Ambienti Sanitari Eterogenei](#-fedmed-ai-framework-integrato-per-federated-learning-privacy-preserving-con-llm-blockchain-e-hl7fhir-in-ambienti-sanitari-eterogenei)
+- [🏥 FeLiHSan{AI}: Framework Integrato per Federated Learning Privacy-Preserving con LLM, Blockchain e HL7/FHIR in Ambienti Sanitari Eterogenei](#-felihsanai-framework-integrato-per-federated-learning-privacy-preserving-con-llm-blockchain-e-hl7fhir-in-ambienti-sanitari-eterogenei)
   - [📑 Indice di Navigazione](#-indice-di-navigazione)
   - [Executive Summary](#executive-summary)
     - [🎯 Innovazioni Chiave](#-innovazioni-chiave)
@@ -72,6 +74,7 @@
   - [📄 Licenza](#-licenza)
   - [💡 Come Contribuire](#-come-contribuire)
     - [🤝 Contatti](#-contatti)
+    - [🌟 Unisciti alla Rivoluzione dell'AI Medicale](#-unisciti-alla-rivoluzione-dellai-medicale)
 
 ---
 
@@ -1037,17 +1040,47 @@ Siamo aperti a contributi dalla community! Vedere [CONTRIBUTING.md](CONTRIBUTING
 
 ### 🤝 Contatti
 
-- 📧 Email: [contact@fedmed-ai.org](mailto:contact@fedmed-ai.org)
-- 🌐 Website: [https://fedmed-ai.org](https://fedmed-ai.org)
-- 💬 Discord: [Join our community](https://discord.gg/fedmed-ai)
-- 🐦 Twitter: [@FedMedAI](https://twitter.com/FedMedAI)
+<div align="center">
+
+| Canale | Link |
+|--------|------|
+| 📧 Email | [contact@fedmed-ai.org](mailto:contact@fedmed-ai.org) |
+| 🌐 Website | [https://fedmed-ai.org](https://fedmed-ai.org) |
+| 💬 Discord | [Join our community](https://discord.gg/fedmed-ai) |
+| 🐦 Twitter | [@FedMedAI](https://twitter.com/FedMedAI) |
+| 💼 LinkedIn | [FedMed-AI](https://linkedin.com/company/fedmed-ai) |
+| 📺 YouTube | [FedMed-AI Channel](https://youtube.com/@fedmed-ai) |
+
+</div>
 
 ---
 
 <div align="center">
 
+### 🌟 Unisciti alla Rivoluzione dell'AI Medicale
+
+<img src="img/logo_FeLiHSan-AI.png" alt="FeLiHSan-AI Logo" width="200">
+
+**FeLiHSan-AI Framework**  
+*Federated Learning for Healthcare Intelligence with Secure AI*
+
+[![Stars](https://img.shields.io/github/stars/fedmed-ai/fedmed-framework?style=social)](https://github.com/fedmed-ai/fedmed-framework)
+[![Forks](https://img.shields.io/github/forks/fedmed-ai/fedmed-framework?style=social)](https://github.com/fedmed-ai/fedmed-framework)
+[![Watchers](https://img.shields.io/github/watchers/fedmed-ai/fedmed-framework?style=social)](https://github.com/fedmed-ai/fedmed-framework)
+
+<br>
+
 **🚀 Costruiamo insieme il futuro dell'AI medicale distribuita, etica e privacy-preserving 🚀**
 
-[⬆️ Torna all'inizio](#-fedmed-ai-framework-integrato-per-federated-learning-privacy-preserving-con-llm-blockchain-e-hl7fhir-in-ambienti-sanitari-eterogenei)
+<br>
+
+<sub>
+© 2025 FedMed-AI Consortium | Tutti i diritti riservati<br>
+Sviluppato con ❤️ per la comunità medica globale
+</sub>
+
+<br>
+
+[⬆️ Torna all'inizio](#-fedmed-ai-framework-integrato-per-federated-learning-privacy-preserving-con-llm-blockchain-e-hl7fhir-in-ambienti-sanitari-eterogenei) | [📚 Documentazione](https://docs.fedmed-ai.org) | [🐛 Segnala un problema](https://github.com/fedmed-ai/fedmed-framework/issues)
 
 </div>
